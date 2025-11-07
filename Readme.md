@@ -1,65 +1,45 @@
-# 🛡️ Miguel Torres 
+## Contents
 
-**Offensive Cybersecurity Specialist | Pentester & Ethical Hacker | bounty hunter**
+- [Bug Bounty PoC](#bug-bounty)
+- [CTF](#ctf)
+  - [HackTheBox](#hackthebox)
+  - [Offsec](#offsec)
+  - [TryHackMe](#tryhackme)
+  - [VulnHub](#vulnhub)
+  - [PortSwiggerLab](#portswiggerlab)
+- [About Me](#about-me)
 
-📍 Bolivar, Colombia  
-📧 miguelangeltorresmercado58@gmail.com  
-🔗 [LinkedIn](https://linkedin.com/in/miguel-angel-torres-mercado-3b7bb8290)
+## Bug Bounty
+- [Hunting methodology and experience of my First Stored XSS on Edmodo.com](/posts/bugbounty/1.md)
+- [Just 5 minute to get my 2nd stored XSS on Edmodo.com](/posts/bugbounty/2.md)
 
----
 
-## 👨‍💻 Sobre mí
-
-Soy especialista en **ciberseguridad ofensiva** y estudiante de **Ingeniería de Sistemas**, con experiencia en **penetration testing, análisis de vulnerabilidades, red teaming y automatización con Python y Bash**.  
-Apasionado por el hacking ético, el análisis forense digital y el desarrollo de herramientas de seguridad.
-
----
-
-## 🧰 Habilidades Técnicas
-
-### 🔹 Pentesting & Red Team
-- OWASP Top 10, explotación de vulnerabilidades, privilege escalation  
-- Web, mobile y network penetration testing  
-- Simulación de ataques: MITM, phishing, Active Directory, CVEs  
-
-### 🔹 Herramientas Avanzadas de Pentesting y Explotación
-
-#### 🕸 Web Application Pentesting
-- **Burp Suite**: Proxy, Repeater, Intruder, Scanner, Collaborator, Decoder  
-  Extensiones avanzadas: Param Miner, HTTP Request Smuggler, DOM Invader, SAML Raider, Agartha, Turbo Intruder, JWT Editor, Server-Side Prototype Pollution Scanner, Java Deserialization Scanner, Hackvertor, Logger++, Burp Bounty Pro, Taborator  
-- **OWASP ZAP**, **SQLMap**, **WPScan**, **ffuf (fuff)**, **Feroxbuster**, **Kiterunner**, **BatchQL**, **GraphQLmap**, **GraphQL Voyager**, **curl**, **Acunetix**
-
-#### 🖥️ Network & System Exploitation
-- **Metasploit**, **Cobalt Strike**, **Empire**, **Mimikatz**, **John the Ripper**, **Hydra**, **CrackMapExec**, **Impacket**, **Responder**, **PowerSploit**, **Turbo Intruder**, **Setoolkit (SET)**
-
-#### 🌐 Reconocimiento & OSINT
-- **Shodan**, **TheHarvester**, **Maltego**, **Recon-ng**, **Google Dorking**, **WHOIS**, **Wappalyzer**, **BuiltWith**  
-- Subdomain enumeration: **Amass**, **Subfinder**, **Sublist3r**, **DNSRecon**, **DNSdumpster**, **Knock (Knockpy)**, **SubBrute**, **AltDNS**, **Fierce**, **crt.sh (SET)**, **Wback URL**, **Sherlock**, **KXSS**, **ExcSOR**, **Olge (Tabor)**, **Ignorant**
-
-#### 📡 Network Scanning & Sniffing
-- **Nmap / Zenmap**, **Nessus**, **OpenVAS**, **Wireshark**, **Tcpdump**, **Snort**, **Angry IP Scanner**, **Netcat**, **QualysGuard**, **Nexpose**, **Xprobe2**, **Cron-OS**, **hping**, **SinFP**, **p0f**, **ettercap**, **Kismet**, **Aircrack-ng**, **Asleap**, **traceroute**
+## CTF
 
 ---
 
-### 🔹 Programación & Automatización
-- **Python**, **Bash**, **C++**, **PowerShell (básico)**  
-- Automatización de escaneo, fuzzing, explotación y reporting.
+### HackTheBox
 
-### 🔹 Digital Forensics & Incident Response
-- **Volatility**, **Autopsy**, **FTK Imager**  
-- Análisis de memoria RAM, disco, logs y extracción de evidencia.
+- Linux: [Lame Easy](./posts/hackthebox/lame.md), [Popcorn Medium](./posts/hackthebox/popcorn.md)
+- Windows: [Legacy Easy](./posts/hackthebox/legacy.md), [Devel Easy](./posts/hackthebox/devel.md)
 
-### 🔹 Entornos y Distribuciones de Seguridad
-- **Kali Linux**, **Parrot Security OS**, **BackTrack**, **Metasploitable**, **Security Onion**, **Burp Profesional**, **Knoppix STD**, **ELSA**
+### Offsec
 
----
+- Windows: [Algernon](./posts/offsec/algernon.md),  [AuthBy](./posts/offsec/authby.md)
 
-## 🧾 Certificaciones
+### TryHackMe
 
-| Certificación | Estado |
-|---------------|--------|
-| 🏆 eJPT – eLearnSecurity Junior Penetration Tester | ✅ |
-| ⚔️ eWPTX – Web Application Penetration Tester eXtreme | ✅ |
-| 🎓 Google Professional Certificate in Cybersecurity | ✅ |
-| 💣 SANS GXPN – Exploit Researcher & Advanced Penetration Tester | ⏳ En progreso |
-| 💻 Talento Tech Colombia – Curso de Ciberseguridad | ✅ |
+- Getting Started: [Tutorial](/posts/tryhackme/tutorial.md)
+- Easy Machines: [Vuln University (Vulnversity)](/posts/tryhackme/vulnversity.md), [Blue](/posts/tryhackme/blue.md), [Kenobi](/posts/tryhackme/kenobi.md)
+- Advanced Exploitation Machines: [Daily Bugle](/posts/tryhackme/dailybugle.md), [Overpass 2 Hacked](/posts/tryhackme/overpass2hacked.md) 
+- Active Directory: [Attacktive Directory](/posts/tryhackme/attacktivedirectory.md)
+- Tools: [FFUF](/posts/tryhackme/ffuf.md)
+- Web: [OWASP Top 10](/posts/tryhackme/owasptop10.md)
+- Cryptography: [Crack the hash](/posts/tryhackme/crackthehash.md), [The Impossible Challenge](/posts/tryhackme/theimpossiblechallenge.md)
+
+### VulnHub
+
+- [HackLAB: Vulnix](/posts/vulnhub/hacklab-vulnix.md), [Kioptrix: Level 1.2](/posts/vulnhub/kioptrix12.md), [FristiLeaks: 1.3](/posts/vulnhub/fristileaks13.md), [Escalate My Privileges: 1](/posts/vulnhub/escalate-my-privileges-1.md)
+
+
+## About Me
