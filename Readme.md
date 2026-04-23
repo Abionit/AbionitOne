@@ -1,45 +1,22 @@
-## Contents
+# Legacy Security Notes
 
-- [Bug Bounty PoC](#bug-bounty)
-- [CTF](#ctf)
-  - [HackTheBox](#hackthebox)
-  - [Offsec](#offsec)
-  - [TryHackMe](#tryhackme)
-  - [VulnHub](#vulnhub)
-  - [PortSwiggerLab](#portswiggerlab)
-- [About Me](#about-me)
+This repository contains older security learning notes and references.
 
-## Bug Bounty
-- [Hunting methodology and experience of my First Stored XSS on Edmodo.com](/posts/bugbounty/1.md)
-- [Just 5 minute to get my 2nd stored XSS on Edmodo.com](/posts/bugbounty/2.md)
+My current portfolio is maintained in the main GitHub profile and focuses on data analysis, SQL reporting, Python workflows, dashboard communication, and security analytics.
 
+## Current Portfolio
 
-## CTF
+- GitHub profile: https://github.com/Abionit
+- Recruiter brief: https://github.com/Abionit/Abionit/blob/main/RECRUITER_BRIEF.md
+- SQL evidence: https://github.com/Abionit/Abionit/blob/main/SQL_EVIDENCE.md
+- Case studies: https://github.com/Abionit/Abionit/blob/main/CASE_STUDIES.md
 
----
+## Featured Work
 
-### HackTheBox
+- Subscription Analytics Lab: https://github.com/Abionit/subscription-analytics-lab
+- SOC Home Lab v2: https://github.com/Abionit/soc-home-lab/tree/portfolio/soc-home-lab-v2
+- Security write-ups: https://github.com/Abionit/writeups
 
-- Linux: [Lame Easy](./posts/hackthebox/lame.md), [Popcorn Medium](./posts/hackthebox/popcorn.md)
-- Windows: [Legacy Easy](./posts/hackthebox/legacy.md), [Devel Easy](./posts/hackthebox/devel.md)
+## Scope
 
-### Offsec
-
-- Windows: [Algernon](./posts/offsec/algernon.md),  [AuthBy](./posts/offsec/authby.md)
-
-### TryHackMe
-
-- Getting Started: [Tutorial](/posts/tryhackme/tutorial.md)
-- Easy Machines: [Vuln University (Vulnversity)](/posts/tryhackme/vulnversity.md), [Blue](/posts/tryhackme/blue.md), [Kenobi](/posts/tryhackme/kenobi.md)
-- Advanced Exploitation Machines: [Daily Bugle](/posts/tryhackme/dailybugle.md), [Overpass 2 Hacked](/posts/tryhackme/overpass2hacked.md) 
-- Active Directory: [Attacktive Directory](/posts/tryhackme/attacktivedirectory.md)
-- Tools: [FFUF](/posts/tryhackme/ffuf.md)
-- Web: [OWASP Top 10](/posts/tryhackme/owasptop10.md)
-- Cryptography: [Crack the hash](/posts/tryhackme/crackthehash.md), [The Impossible Challenge](/posts/tryhackme/theimpossiblechallenge.md)
-
-### VulnHub
-
-- [HackLAB: Vulnix](/posts/vulnhub/hacklab-vulnix.md), [Kioptrix: Level 1.2](/posts/vulnhub/kioptrix12.md), [FristiLeaks: 1.3](/posts/vulnhub/fristileaks13.md), [Escalate My Privileges: 1](/posts/vulnhub/escalate-my-privileges-1.md)
-
-
-## About Me
+The active portfolio should be used as the primary reference for recruiter and technical review. This repository remains public as an older notes area.
